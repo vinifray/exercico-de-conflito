@@ -2,8 +2,8 @@ package com.br.zup;
 
 public class Apresentacao {
 
-    public static void apresetaVinicius(){
-        System.out.println("Oi meu nome é Vinicius");
+    public static void apresentaKaio(){
+        System.out.println("Oi meu nome é Kaio");
     }
 
     public static void apresentaIris(){
