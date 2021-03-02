@@ -2,6 +2,10 @@ package com.br.zup;
 
 public class Apresentacao {
 
+    public static void apresetaVinicius() {
+        System.out.println("Oi meu nome é Vinicius");
+    }
+
     public static void apresentaKaio(){
         System.out.println("Oi meu nome é Kaio");
     }
@@ -18,8 +22,8 @@ public class Apresentacao {
         System.out.println("Oi meu nome e Rodrigo!");
     }
 
-    public static void apresentaThiago() {
-        System.out.println("Oi, meu nome é Thiago");
+    public static void apresentaAna() {
+        System.out.println("Oi meu nome é Ana");
     }
 
     public static void apresentaFranklin() {
@@ -32,8 +36,10 @@ public class Apresentacao {
 
     public static void apresetaWeslley(){
         System.out.println("Oi meu nome é Weslley");
-
     }
 
+    public static void apresentaThiago() {
+        System.out.println("Oi, meu nome é Thiago");
+    }
 }
 
