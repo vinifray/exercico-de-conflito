@@ -18,4 +18,8 @@ public class Apresentacao {
         System.out.println("Oi meu nome e Rodrigo!");
     }
 
+    public static void apresentaThiago() {
+        System.out.println("Oi, meu nome é Thiago");
+    }
+
 }
