@@ -26,8 +26,13 @@ public class Apresentacao {
         System.out.println("Oi, meu nome é Franklin");
     }
   
-    public static void apresentaXablau(){
+    public static void apresentaXablau() {
         System.out.println("Oi meu nome é Xablau");
+    }
+
+    public static void apresetaWeslley(){
+        System.out.println("Oi meu nome é Weslley");
+
     }
 
 }
